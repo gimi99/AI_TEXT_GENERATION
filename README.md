@@ -13,21 +13,28 @@ This project is an AI-based text generator built using LSTM (Long Short-Term Mem
 * Adjust temperature for creativity and randomness in text generation.
 
 Example Outputs (in Italian):
+
 ----------0.2----------
+
 sa come sa come san messi
 
 ----------0.4----------
+
 eh, sono via torno mercoledì per lavora di pi vo sa sa boma
 
 ----------0.6----------
+
 on puoi darti per ammalato? 😅 o ti manda domo
 
 ----------0.8----------
+
 a mestre vacca bestia dove haha? passata fessanti fun como pente si media un raco casto
 
 ----------1----------
+
 i ho quadruplicati 😂😂 altro che trading dami denara, 🟢o a bissc paulc🔝 fa sesta
-Requirements:
-TensorFlow
-NumPy
+
+**Requirements:**
+* TensorFlow
+* NumPy
 
